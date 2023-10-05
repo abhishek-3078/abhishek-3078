@@ -1,7 +1,18 @@
 ### Hi there 👋 
-I am  **Abhishek Kumar** from **NIT Kurukshetra**
+I am **Abhishek Kumar** a 2nd-year B.Tech student at **NIT Kurukshetra**, passionate about web development and currently focused on the MERN stack. I'm also exploring the world of mobile app development with Flutter.
 
-[![abhishek-3078's GitHub | Stats](https://stats.quine.sh/abhishek-3078/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhishek-3078)
+🌐 **Web Development**:
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Version Control: Git
+
+📱 **Mobile App Development**:
+- Framework: Flutter
+
+Feel free to explore my repositories to see some of my projects and contributions. I'm open to collaborations and always eager to learn new technologies.
+
+![abhishek-3078](https://github-readme-stats.vercel.app/api?username=abhishek-3078)
 <!--
 **abhishek-3078/abhishek-3078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
