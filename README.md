@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I am **Abhishek Kumar** a 2nd-year B.Tech student at **NIT Kurukshetra**, passionate about web development and currently focused on the MERN stack. I'm also exploring the world of mobile app development with Flutter.
+I am **Abhishek Kumar** a 3rd-year B.Tech student at **NIT Kurukshetra**, passionate about web development and currently focused on the MERN stack. I'm also exploring the world of mobile app development with Flutter.
 
 🌐 **Web Development**:
 - Frontend: HTML, CSS, JavaScript, React
